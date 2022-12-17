@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Felix! 😁
 
-I am a full-stack software developer. My technology stack involves React, javascript, MongoDB, Node.js, Express.js, and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in fitness and nutrition.
+I am a full-stack software developer. My technology stack includes React, javascript, MongoDB, Node.js, Express.js, and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in fitness and nutrition.
 
 - 🔭 I’m currently working on my web app, Stretch Buddy. 
 - 💬 Brainstorm with me over tech, fitness, and nutrition
