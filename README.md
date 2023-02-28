@@ -2,7 +2,7 @@
 
 I am a full-stack software developer. My technology stack includes React, javascript, MongoDB, Node.js, Express.js, and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in fitness and nutrition.
 
-- 🔭 I’m currently working on my web app, Stretch Buddy. 
+- 🔭 I’m currently working on my full stack web app, Train Together. 
 - 💬 Brainstorm with me over tech, fitness, and nutrition
 - 📫 How to reach me: fechen1993@gmail.com
 - ⚡ Fun fact: I have the cutest dog named Sno!! 🐶
