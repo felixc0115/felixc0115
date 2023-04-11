@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [felixchen.co](felixchen.co)
 
-- 💬 Ask me about **React**, **Javascript**
+- 💬 Ask me about **React** and **Javascript**
 
 - 📫 How to reach me **fechen1993@gmail.com**
 
