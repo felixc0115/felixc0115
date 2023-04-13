@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">I am a full-stack software engineer. My technology stack includes React, javascript, MongoDB, Node.js, Express.js, Redux, TailwindCSS/DaisyUI, MongoDB/Mongoose, HTML, and CSS. Besides programming, I have an immense interest in fitness and nutrition.</h3>
+<h3 align="center">I am a full-stack software engineer. My technology stack includes React, javascript, MongoDB, Node.js, Express.js, Redux, TailwindCSS/DaisyUI, MongoDB/Mongoose, HTML, and CSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixc0115&label=Profile%20views&color=0e75b6&style=flat" alt="felixc0115" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.felixchen.co/images/felix_chen_resume.pdf](https://www.felixchen.co/images/felix_chen_resume.pdf)
 
-- ⚡ Fun fact **I have the cutest dog named Sno!!**
+- ⚡ Fun fact **I am interested in fitness, nutrtiton, formula1, and I have the cutest dog named Sno!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
