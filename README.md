@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixc0115" alt="felixc0115" /></a> </p>
 
-- 🔭 I’m currently working on [Train Together](felixchen.co)
+- 🔭 I’m currently working on [Train Together](train-together.cyclic.app)
 
 - 👨‍💻 All of my projects are available at [felixchen.co](felixchen.co)
 
