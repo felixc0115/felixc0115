@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Train Together](train-together.cyclic.app)
 
-- 👨‍💻 All of my projects are available at [felixchen.co](felixchen.co)
+- 👨‍💻 All of my projects are available at [felixchen.co](https://felixchen.co)
 
 - 💬 Ask me about **React** and **Javascript**
 
