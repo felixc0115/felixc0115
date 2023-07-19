@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fechen1993@gmail.com**
 
-- 📄 Know about my experiences [https://www.felixchen.co/images/felix_chen_resume.pdf](https://www.felixchen.co/images/felix_chen_resume.pdf)
+- 📄 Know about my experiences [https://www.felixchen.co/images/felix_chen_resume.pdf](https://www.felixchen.co/resume)
 
 - ⚡ Fun fact **I am interested in fitness, nutrtiton, formula1, and I have the cutest dog named Sno!!**
 
