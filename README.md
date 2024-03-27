@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Train Together](https://train-together.cyclic.app)
 
-- 👨‍💻 All of my projects are available at [felixchen.co](https://felixchen.co)
+- 👨‍💻 All of my projects are available at [felixchen.online](https://felixchen.online)
 
 - 💬 Ask me about **React** and **Javascript**
 
 - 📫 How to reach me **fechen1993@gmail.com**
 
-- 📄 Learn about my experiences [https://www.felixchen.co](https://www.felixchen.co)
+- 📄 Learn about my experiences [https://www.felixchen.online](https://www.felixchen.online)
 
 - ⚡ Fun fact **I am interested in fitness, nutrtiton, formula1, and I have the cutest dog named Sno!!**
 
